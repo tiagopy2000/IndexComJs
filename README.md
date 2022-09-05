@@ -1,9 +1,10 @@
-# ATIVIDADE2CSS
+# ATIVIDADE
 
 
-# SITE UTILIZANDO O BOOTSTRAP
+# Utilizando Js
 
-A FAZER:
 
-TELA PRODUTOS
+Index com JavaScript
+
+
 
